@@ -1,0 +1,5 @@
+vhdl work "../../CELT_Comentado_Funciona/refresco.vhd"
+vhdl work "MUX4x4.vhd"
+vhdl work "decod7s.vhd"
+vhdl work "../../CELT_Comentado_Funciona/visualizacion.vhd"
+vhdl work "visualizacion.vhd"

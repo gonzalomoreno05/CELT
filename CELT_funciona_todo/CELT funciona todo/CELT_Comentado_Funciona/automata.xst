@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/alumno/Desktop/CELT1/celt2/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/alumno/Desktop/CELT1/celt2/xst"
+elaborate
+-ifn automata.prj
+-ifmt mixed

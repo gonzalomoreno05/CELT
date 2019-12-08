@@ -1,0 +1,81 @@
+V3 51
+FL C:/Users/alumno/Desktop/CELT1/CELT/refresco.vhd 2017/10/18.18:12:54 P.20131013
+EN work/refresco 1512662035 FL C:/Users/alumno/Desktop/CELT1/CELT/refresco.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/refresco/a_refresco 1512662036 \
+      FL C:/Users/alumno/Desktop/CELT1/CELT/refresco.vhd EN work/refresco 1512662035
+FL C:/Users/alumno/Desktop/CELT1/celt2/AND2.vhd 2017/12/05.18:53:44 P.20131013
+EN work/AND_2 1512662045 FL C:/Users/alumno/Desktop/CELT1/celt2/AND2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/AND_2/a_AND_2 1512662046 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/AND2.vhd EN work/AND_2 1512662045
+FL C:/Users/alumno/Desktop/CELT1/celt2/automata.vhd 2017/12/05.19:06:16 P.20131013
+EN work/automata 1512662047 FL C:/Users/alumno/Desktop/CELT1/celt2/automata.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/automata/a_automata 1512662048 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/automata.vhd EN work/automata 1512662047
+FL C:/Users/alumno/Desktop/CELT1/celt2/comparador.vhd 2017/12/05.18:45:50 P.20131013
+EN work/comparador 1512662043 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/comparador.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/comparador/a_comparador 1512662044 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/comparador.vhd EN work/comparador 1512662043
+FL C:/Users/alumno/Desktop/CELT1/celt2/decod7s.vhd 2017/10/18.17:56:34 P.20131013
+EN work/decod7s 1512662031 FL C:/Users/alumno/Desktop/CELT1/celt2/decod7s.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/decod7s/a_decod7s 1512662032 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/decod7s.vhd EN work/decod7s 1512662031
+FL C:/Users/alumno/Desktop/CELT1/celt2/gen_reloj.vhd 2017/12/05.18:45:46 P.20131013
+EN work/gen_reloj 1512662037 FL C:/Users/alumno/Desktop/CELT1/celt2/gen_reloj.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/gen_reloj/a_gen_reloj 1512662038 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/gen_reloj.vhd EN work/gen_reloj 1512662037
+FL C:/Users/alumno/Desktop/CELT1/celt2/MUX4x4.vhd 2017/10/18.16:33:56 P.20131013
+EN work/MUX4x4 1512662033 FL C:/Users/alumno/Desktop/CELT1/celt2/MUX4x4.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/MUX4x4/a_MUX4x4 1512662034 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/MUX4x4.vhd EN work/MUX4x4 1512662033
+FL C:/Users/alumno/Desktop/CELT1/celt2/principal.vhd 2017/12/07.16:53:48 P.20131013
+EN work/principal 1512662055 FL C:/Users/alumno/Desktop/CELT1/celt2/principal.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/principal/a_principal 1512662056 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/principal.vhd EN work/principal 1512662055 \
+      CP gen_reloj CP reg_desp40 CP sumador40 CP comparador CP AND_2 CP automata \
+      CP reg_desp CP registro CP visualizacion
+FL C:/Users/alumno/Desktop/CELT1/celt2/registro.vhd 2017/12/05.21:41:46 P.20131013
+EN work/registro 1512662051 FL C:/Users/alumno/Desktop/CELT1/celt2/registro.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/registro/a_registro 1512662052 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/registro.vhd EN work/registro 1512662051
+FL C:/Users/alumno/Desktop/CELT1/celt2/reg_desp.vhd 2017/12/05.18:56:16 P.20131013
+EN work/reg_desp 1512662049 FL C:/Users/alumno/Desktop/CELT1/celt2/reg_desp.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/reg_desp/a_reg_desp 1512662050 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/reg_desp.vhd EN work/reg_desp 1512662049
+FL C:/Users/alumno/Desktop/CELT1/celt2/reg_desp40.vhd 2017/12/05.21:41:46 P.20131013
+EN work/reg_desp40 1512662039 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/reg_desp40.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/reg_desp40/a_reg_desp40 1512662040 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/reg_desp40.vhd EN work/reg_desp40 1512662039
+FL C:/Users/alumno/Desktop/CELT1/celt2/sumador40.vhd 2017/10/25.16:58:48 P.20131013
+EN work/sumador40 1512662041 FL C:/Users/alumno/Desktop/CELT1/celt2/sumador40.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/sumador40/a_sumador40 1512662042 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/sumador40.vhd EN work/sumador40 1512662041
+FL C:/Users/alumno/Desktop/CELT1/celt2/visualizacion.vhd 2017/12/06.11:55:00 P.20131013
+EN work/visualizacion 1512662053 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/visualizacion.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/visualizacion/a_visualizacion 1512662054 \
+      FL C:/Users/alumno/Desktop/CELT1/celt2/visualizacion.vhd \
+      EN work/visualizacion 1512662053 CP decod7s CP MUX4x4 CP refresco

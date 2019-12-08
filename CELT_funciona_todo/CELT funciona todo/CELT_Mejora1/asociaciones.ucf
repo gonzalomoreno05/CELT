@@ -1,0 +1,28 @@
+# Reloj principal del sistema
+
+NET "CLK" LOC = "M6"; # Señal de reloj del sistema
+
+# Conexiones de los DISPLAYS
+
+NET "SEG7<0>" LOC = "M12"; # señal = CA
+NET "SEG7<1>" LOC = "L13"; # Señal = CB
+NET "SEG7<2>" LOC = "P12"; # Señal = CC
+NET "SEG7<3>" LOC = "N11"; # Señal = CD
+NET "SEG7<4>" LOC = "N14"; # Señal = CE
+NET "SEG7<5>" LOC = "H12"; # Señal = CF
+NET "SEG7<6>" LOC = "L14"; # Señal = CG
+
+# Señales de activación de los displays
+
+NET "AN<0>" LOC = "K14"; # Activación del display 0 = AN0
+NET "AN<1>" LOC = "M13"; # Activación del display 1 = AN1
+NET "AN<2>" LOC = "J12"; # Activación del display 2 = AN2
+NET "AN<3>" LOC = "F12"; # Activación del display 3 = AN3
+
+# Entrada externa donde se conecta la señal entrante
+
+NET "SIN" LOC = "B2"; #Entrada terminal 1
+
+# Salida asociada al LED 0 de la FPGA
+
+NET "LED_PM" LOC = "M5"; 
