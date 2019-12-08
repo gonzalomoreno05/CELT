@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/principal</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/principal.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/principal.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/principal/a_principal</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/principal.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/principal.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/AND_2</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/AND2.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/AND2.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/AND_2/a_AND_2</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/AND2.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/AND2.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/automata</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/automata.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/automata.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/automata/a_automata</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/automata.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/automata.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/comparador</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/comparador.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/comparador.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/comparador/a_comparador</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/comparador.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/comparador.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/gen_reloj</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/gen_reloj.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/gen_reloj.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/gen_reloj/a_gen_reloj</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/gen_reloj.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/gen_reloj.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/registro</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/registro.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/registro.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/registro/a_registro</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/registro.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/registro.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/reg_desp</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/reg_desp.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/reg_desp.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/reg_desp/a_reg_desp</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/reg_desp.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/reg_desp.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/reg_desp40</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/reg_desp40.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/reg_desp40.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/reg_desp40/a_reg_desp40</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/reg_desp40.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/reg_desp40.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/sumador40</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/sumador40.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/sumador40.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/sumador40/a_sumador40</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/sumador40.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/sumador40.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/visualizacion</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/visualizacion.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/visualizacion.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/visualizacion/a_visualizacion</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/visualizacion.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/visualizacion.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/decod7s</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/decod7s.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/decod7s.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/decod7s/a_decod7s</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/decod7s.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/decod7s.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/MUX8x8</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/MUX4x4.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/MUX4x4.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/MUX8x8/a_MUX8x8</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/MUX4x4.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/MUX4x4.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/refresco</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/refresco.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/refresco.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/refresco/a_refresco</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/alumno/Desktop/CELT_Mejora3/CELT_Mejora3/refresco.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/refresco.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="Xst" num="1541" delta="new" >&quot;<arg fmt="%s" index="1">E:/CELT funciona todo/CELT_Mejora3/CELT_Mejora3/visualizacion.vhd</arg>&quot; line <arg fmt="%d" index="2">58</arg>: Different binding for component: &lt;<arg fmt="%s" index="3">decod7s</arg>&gt;. Port &lt;<arg fmt="%s" index="4">S</arg>&gt; does not match.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">CLK_V</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">PGTQ2</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+</messages>
+
